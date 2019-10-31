@@ -1,0 +1,19 @@
+.navbar
+{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+
+}
+
+.navbar li
+{
+    display: inline;
+}
+
+.navbar-r
+{
+  float: right;
+  padding: 0 0 0 5px
+}
